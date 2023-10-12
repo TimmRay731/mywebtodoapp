@@ -1,0 +1,4 @@
+dance
+sleep
+eat
+cry
